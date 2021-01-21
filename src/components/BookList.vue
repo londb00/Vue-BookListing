@@ -1,6 +1,11 @@
 <template>
     <div>
         <h1>{{title}}</h1>
+        <ul>
+            <li>eerste boek</li>
+            <li>nog veel mooier boek</li>
+            <li>laatste boek</li>
+        </ul>
     </div>
 </template>
 
