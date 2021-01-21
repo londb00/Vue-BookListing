@@ -9,6 +9,7 @@
 
 <script>
   import BookItem from './BookItem';
+
   export default {
     name: 'Booklist',
     components: {
