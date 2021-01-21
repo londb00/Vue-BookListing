@@ -25,6 +25,13 @@
 </script>
 
 <style>
+h1, h2 {
+    font-weight: normal
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
 
 
 
